@@ -1,0 +1,19 @@
+F08720E3-72D0-4377-945C-7D2912B62DBB -t -e 1.1:tcp -h 192.168.0.202 -p 35153 -t 60000
+11e46044-6294-4a65-8ed1-4bb5a2f817c2
+Inicio de servicios
+New MainService running: 11e46044-6294-4a65-8ed1-4bb5a2f817c2
+['11e46044-6294-4a65-8ed1-4bb5a2f817c2']
+New possible MainService: 9c5eec1f-92ed-4aa7-8bf2-e9753cca1d2c
+Enviando BD...
+New MainService running: 9c5eec1f-92ed-4aa7-8bf2-e9753cca1d2c
+['11e46044-6294-4a65-8ed1-4bb5a2f817c2', '9c5eec1f-92ed-4aa7-8bf2-e9753cca1d2c']
+New AuthenticatorService running: 20737b15-045c-431d-bcac-804092ed5088
+['20737b15-045c-431d-bcac-804092ed5088', '11e46044-6294-4a65-8ed1-4bb5a2f817c2', '9c5eec1f-92ed-4aa7-8bf2-e9753cca1d2c']
+New AuthenticatorService running: 9066e04f-6144-4a73-890b-f1faa51ab060
+['20737b15-045c-431d-bcac-804092ed5088', '9066e04f-6144-4a73-890b-f1faa51ab060', '11e46044-6294-4a65-8ed1-4bb5a2f817c2', '9c5eec1f-92ed-4aa7-8bf2-e9753cca1d2c']
+New MediaCatalogService running: eda38596-b39a-4700-90bb-e4502f31e739
+['20737b15-045c-431d-bcac-804092ed5088', '9066e04f-6144-4a73-890b-f1faa51ab060', 'eda38596-b39a-4700-90bb-e4502f31e739', '11e46044-6294-4a65-8ed1-4bb5a2f817c2', '9c5eec1f-92ed-4aa7-8bf2-e9753cca1d2c']
+New MediaCatalogService running: 73d0486a-6e34-4f91-bd9d-4a9117ada4a4
+['20737b15-045c-431d-bcac-804092ed5088', '9066e04f-6144-4a73-890b-f1faa51ab060', 'eda38596-b39a-4700-90bb-e4502f31e739', '73d0486a-6e34-4f91-bd9d-4a9117ada4a4', '11e46044-6294-4a65-8ed1-4bb5a2f817c2', '9c5eec1f-92ed-4aa7-8bf2-e9753cca1d2c']
+698BD4E0-C527-475A-8AF5-6FAA3BF7ADD8 -t -e 1.1:tcp -h 192.168.0.202 -p 36337 -t 60000
+1C93249E-109B-40F9-8B96-E30CDABBADE7 -t -e 1.1:tcp -h 192.168.0.202 -p 36941 -t 60000

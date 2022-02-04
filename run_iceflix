@@ -1,0 +1,24 @@
+#!/bin/bash
+echo "Ejecutando main..."
+./Main.py iceflixadmin > salida &
+sleep 4
+
+./Main.py iceflixadmin &
+sleep 4
+
+echo "Ejecutando authenticator..."
+./Authenticator.py  & 
+sleep 4
+
+./Authenticator.py  & 
+sleep 4
+
+echo "Ejecutando Catálogo..."
+./Catalogue.py  &
+sleep 4
+
+./Catalogue.py
+
+
+
+
